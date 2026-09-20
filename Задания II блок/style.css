@@ -1,0 +1,32 @@
+p {
+    color: red;
+    font-size: 30px;
+    line-height: 45px;
+    text-indent: 50px;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: blue;
+    font-style: italic;
+    font-family: Arial;
+}
+h3 {
+    color: orange;
+    font-family: "Comic Sans MS";
+}
+li {
+    color: #A6A600;
+}
+td {
+    width: 500px;
+    height: 300px;
+    font-weight: bold;
+    text-align: center;
+}
+th {
+    font-weight: normal;
+    width: 500px;
+    height: 300px;
+}
